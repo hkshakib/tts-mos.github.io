@@ -9,7 +9,7 @@
 ## Text-1 : বাছাই শেষে জানতে চান, দাম কত? তখন স্বেচ্ছাসেবকেরা জানান, কোনো দাম দিতে হবে না।
 
 # Speaker 1 :
-<audio ref='themeSong' src="https://user-images.githubusercontent.com/70447689/156895694-161e9974-2b5b-42f3-bc72-d6cf0431f543.mp4" autoPlay loop></audio>
+<a href="https://user-images.githubusercontent.com/70447689/156895694-161e9974-2b5b-42f3-bc72-d6cf0431f543.mp4"> AUDIO 1 </a>
 https://user-images.githubusercontent.com/70447689/156895694-161e9974-2b5b-42f3-bc72-d6cf0431f543.mp4
 # Speaker 2 :
 https://user-images.githubusercontent.com/70447689/156895704-426d1e6f-3f3a-4e11-9db4-25f826d048ef.mp4
