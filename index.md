@@ -27,8 +27,7 @@
 
 
 
-
-## Google Docs Link: https://forms.gle/fhpd1Q9arLFxbxMi9
+<a href="https://forms.gle/fhpd1Q9arLFxbxMi9"> Google Docs </a> 
 
 
 
