@@ -4,7 +4,7 @@
 
 ### Please Listen to the audio files carefully, and rate their naturalness. 
 ### Give a naturalness score of 1 to 5 to each of the audio files.
-### A hhigher score indicates a more human-like/natural voice.
+### A higher score indicates a more human-like/natural voice.
 
 ## Text-1 : বাছাই শেষে জানতে চান, দাম কত? তখন স্বেচ্ছাসেবকেরা জানান, কোনো দাম দিতে হবে না।
 
