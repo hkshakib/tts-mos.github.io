@@ -2,7 +2,9 @@
 
 
 
-### Please Listen Carefully and Rate these Audio Files. You Can Rate that audio between 1 to 5. 1.5, 2.5,3.5, 4.5 are allowed.
+### Please Listen to the audio files carefully, and rate their naturalness. 
+### Give a naturalness score of 1 to 5 to each of the audio files.
+### A hhigher score indicates a more human-like/natural voice.
 
 ## Text-1 : বাছাই শেষে জানতে চান, দাম কত? তখন স্বেচ্ছাসেবকেরা জানান, কোনো দাম দিতে হবে না।
 
@@ -13,18 +15,20 @@ https://user-images.githubusercontent.com/70447689/156895704-426d1e6f-3f3a-4e11-
 # Speaker 3 :
 https://user-images.githubusercontent.com/70447689/156895706-b15c2eaf-9867-4b22-9d6a-8753090fd1ad.mp4
 
-## Text: 
 
-# Speaker 1 :
-# Speaker 2 :
-# Speaker 3 : 
+## Text: তোমরা কী তরমুজ দেখেছ? দোকানগুলোতে তরমুজ কেটে রাখা হয়।
 
-### Google Docs Link: 
-
-
-
-
+# Speaker 4 : 
+https://user-images.githubusercontent.com/70447689/156935397-82509427-1f17-49dd-b32c-0527220eadb9.mp4
+# Speaker 5 :
+https://user-images.githubusercontent.com/70447689/156935400-52ddb518-922b-4c65-888a-171fdb7029d5.mp4
+# Speaker 6 : 
+https://user-images.githubusercontent.com/70447689/156935405-65638cc5-e575-4c24-8bbe-2cb4d87cc78b.mp4
 
 
+### Google Docs Link: https://forms.gle/fhpd1Q9arLFxbxMi9
+
+
+## Thanks For YOUR Valueable Time.
 
 
